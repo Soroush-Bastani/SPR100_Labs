@@ -1,7 +1,7 @@
 # SPR100 Lab01 - Introduction to Our Toolbox
 **Student Name:** Soroush Bastani
 **Student ID:** 119983252
-**Date:** 2025-sept-05
+**Date:** 2025-09-05
 ## Lab Overview
 This lab introduces the essential tools and concepts for computer systems and security coursework.
 ## Learning Objectives
